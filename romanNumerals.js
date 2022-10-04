@@ -8,8 +8,8 @@ let romanHash = {
     M: 1000,
 };
 
-let n = 'MCMLXXXIX'
-// n = 1989
+let n = 'MCDXC'
+// n = 1490
 function romanToNum(n) {
     let num = 0;
 
